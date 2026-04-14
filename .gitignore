@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+backend/.env
+frontend/.env
+
+# Node
+node_modules/
+.vite/
+dist/
+
+# Android
+frontend/android/.gradle/
+frontend/android/app/build/
+*.apk
+
+# Misc
+.DS_Store
+Thumbs.db
